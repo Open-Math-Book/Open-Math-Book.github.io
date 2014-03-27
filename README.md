@@ -1,4 +1,4 @@
 Open-Math-Book.github.io
 ========================
 
-Open Math Book site
+Open Math Book www site
